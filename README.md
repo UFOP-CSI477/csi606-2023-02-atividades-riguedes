@@ -6,8 +6,8 @@
 - Nome: Rian Lucas Dias Guedes
 - Matrícula: 20.2.8047
 - Curso: Sistemas de Informação
-- Semestre/Ano correntes: Sétimo semetre querendo saber quando acaba!!!
-- Link para o seu GitHub:
+- Semestre/Ano correntes: Sétimo semetre
+- Link para o seu GitHub: https://github.com/riguedes
 
 ## [Projeto final:](./Projeto/README.md)
 

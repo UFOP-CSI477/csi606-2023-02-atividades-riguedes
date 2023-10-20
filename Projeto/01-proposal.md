@@ -1,6 +1,6 @@
-# **CSI606-2021-02 - Remoto - Proposta de Trabalho Final**
+# **CSI606-2021-02 - Proposta de Trabalho Final**
 
-## *Aluna(o): Princesa Leia (Luke Skywalker)*
+## *Aluna(o): Rian Lucas Dias Guedes*
 
 --------------
 

@@ -6,11 +6,11 @@
 - Nome: Rian Lucas Dias Guedes
 - Matrícula: 20.2.8047
 - Curso: Sistemas de Informação
-- Semestre/Ano correntes: Sétimo semetre fatorial
+- Semestre/Ano correntes: Sétimo semetre
 - Link para o seu GitHub: https://github.com/riguedes
 
 ## [Projeto final:](./Projeto/README.md)
-Tema: Sistema de Doação e Voluntariado para Causas Humanitárias
+Tema: My Volunteer - Sistema de Doação e Voluntariado para Causas Humanitárias
 
 Os serviços voluntários desempenham um papel fundamental em nossa sociedade, contribuindo de maneira significativa para o bem-estar das comunidades, o meio ambiente e o progresso social. Eles são a manifestação da generosidade, empatia e altruísmo de indivíduos dispostos a doar seu tempo, habilidades e recursos para causas que acreditam.
 

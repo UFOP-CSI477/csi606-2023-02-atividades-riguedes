@@ -3,10 +3,10 @@
 
 ## Atualize os seus dados
 
-- Nome:
-- Matrícula:
-- Curso:
-- Semestre/Ano correntes:
+- Nome: Rian Lucas Dias Guedes
+- Matrícula: 20.2.8047
+- Curso: Sistemas de Informação
+- Semestre/Ano correntes: Sétimo semetre querendo saber quando acaba!!!
 - Link para o seu GitHub:
 
 ## [Projeto final:](./Projeto/README.md)

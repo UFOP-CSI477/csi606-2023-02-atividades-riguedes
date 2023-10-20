@@ -1,29 +1,25 @@
-# **CSI606-2021-02 - Remoto - Trabalho Final - Resultados**
+# **CSI606-2021-02 - Trabalho Final - Resultados**
 
-## *Aluna(o): Princesa Leia (Luke Skywalker)*
+## *Aluna(o): Rian Lucas Dias Guedes*
 
 --------------
 
-<!-- Este documento tem como objetivo apresentar o projeto desenvolvido, considerando o que foi definido na proposta e o produto final. -->
-
 ### Resumo
+O My Volunteer é um software completo de gerenciamento de serviços voluntários, projetado para simplificar a administração e o engajamento de voluntários em organizações sem fins lucrativos, instituições de caridade, escolas e outras entidades que dependem do trabalho voluntário. Este software oferece uma solução abrangente para ajudar as organizações a recrutar, gerenciar e reter voluntários com eficiência.
 
-  (Apresentar um breve resumo sobre o seu trabalho, indicando o contexto e as principais funcionalidades.)
+O My Volunteer é uma ferramenta versátil que pode ser personalizada para atender às necessidades específicas de diferentes tipos de organizações. É uma solução completa para quem busca otimizar o serviço voluntário, melhorar o engajamento da comunidade e alcançar objetivos de impacto social. Apresenta como benefícios: eficiência operacional, engajamento aprimorado, prestação de contas, melhoria contínua e aumento do impacto social.
+
+Funcionalidades: integrar redes sociais, gerenciar perfis, buscar vagas de voluntariado e instituições para doações, realizar pagamentos, acatar feedback, cadastrar usuário, login e senha.
 
 ### 1. Funcionalidades implementadas
-<!-- Descrever as funcionalidades que eram previstas e foram implementas. -->
   
 ### 2. Funcionalidades previstas e não implementadas
-<!-- Descrever as funcionalidades que eram previstas e não foram implementas, apresentando uma breve justificativa do porquê elas não foram incluídas -->
 
 ### 3. Outras funcionalidades implementadas
-<!-- Descrever as funcionalidades implementas além daquelas que foram previstas, caso se aplique.  -->
 
 ### 4. Principais desafios e dificuldades
-<!-- Descrever os principais desafios encontrados no desenvolvimento do trabalho, quais foram as dificuldades e como elas foram superadas e resolvidas. -->
 
 ### 5. Instruções para instalação e execução
-<!-- Descrever o que deve ser feito para instalar (ou baixar) a aplicação, o que precisa ser configurando (parâmetros, banco de dados e afins) e como executá-la. -->
 
 ### 6. Referências
-<!-- Referências podem ser incluídas, caso necessário. Utilize o padrão ABNT. -->
+

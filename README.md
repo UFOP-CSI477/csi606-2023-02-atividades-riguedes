@@ -10,7 +10,7 @@
 - Link para o seu GitHub: https://github.com/riguedes
 
 ## [Projeto final:](./Projeto/README.md)
-Tema: My Volunteer - Sistema de Doação e Voluntariado para Causas Humanitárias
+Tema: My Volunteer - Sistema de Doação e Voluntariado
 
 Os serviços voluntários desempenham um papel fundamental em nossa sociedade, contribuindo de maneira significativa para o bem-estar das comunidades, o meio ambiente e o progresso social. Eles são a manifestação da generosidade, empatia e altruísmo de indivíduos dispostos a doar seu tempo, habilidades e recursos para causas que acreditam.
 

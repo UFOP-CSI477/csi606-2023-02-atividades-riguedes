@@ -6,7 +6,7 @@
 - Nome: Rian Lucas Dias Guedes
 - Matrícula: 20.2.8047
 - Curso: Sistemas de Informação
-- Semestre/Ano correntes: Sétimo semetre
+- Semestre/Ano correntes: Sétimo semetre no 2023/2
 - Link para o seu GitHub: https://github.com/riguedes
 
 ## [Projeto final:](./Projeto/README.md)

@@ -18,7 +18,7 @@ Em última análise, os serviços voluntários são a essência do humanitarismo
 
 ### 1. Tema
 
-  O trabalho final tem como tema o desenvolvimento de um sistema de serviços voluntariado e doação para causas de ajuda humanitária.
+  O trabalho final tem como tema o desenvolvimento de um sistema de serviços voluntariado e doação para causas de ajuda social.
 
 ### 2. Escopo
 
@@ -34,7 +34,7 @@ Funcionalidades: integrar redes sociais, gerenciar perfis, buscar vagas de volun
 
 ### 4. Protótipo
 
-  Ocorrerá a execução de um Product Discovery em relação ao usuário final do sistema, utilizando como metodologia o Double Diamond. As ferramentas a serem utilizadas será: Figma, Miro e o Notion.
+Sem estruturação de protótipo até o andamento do projeto.
 
 ### 5. Referências
 

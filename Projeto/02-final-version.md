@@ -9,7 +9,7 @@ O My Volunteer é um software completo de gerenciamento de serviços voluntário
 
 O My Volunteer é uma ferramenta versátil que pode ser personalizada para atender às necessidades específicas de diferentes tipos de organizações. É uma solução completa para quem busca otimizar o serviço voluntário, melhorar o engajamento da comunidade e alcançar objetivos de impacto social. Apresenta como benefícios: eficiência operacional, engajamento aprimorado, prestação de contas, melhoria contínua e aumento do impacto social.
 
-Funcionalidades: integrar redes sociais, gerenciar perfis, buscar vagas de voluntariado e instituições para doações, realizar pagamentos, acatar feedback, cadastrar usuário, login e senha.
+Funcionalidades: pesquisar vagas de voluntariado e instituições para doações, realizar pagamentos, cadastrar instituição filantrópica, cadastrar usuário, login e senha, candidatar á vaga de voluntário.
 
 ### 1. Funcionalidades implementadas
   
